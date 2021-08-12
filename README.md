@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**FabioTranjan/FabioTranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Fabio Tranjan, and I'm from Brazil (:brazil:). I've been working as Full-Stack Developer since 2016. My current technology stack is Ruby on Rails for Back-End and React for Front-End, but I've worked already with Python, C++, Node, Java and Elixir.
 
-Here are some ideas to get you started:
+:eyes: I'm looking forward to contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:telescope: Some pet projects:
+
+:computer: [Hack Computer](https://github.com/FabioTranjan/hack-computer)\
+:bird: [Twitter Clone](https://github.com/FabioTranjan/twitter-clone)\
+:notebook: [To Do List](https://github.com/FabioTranjan/todo-list)
+
+\
+[![Fabio Tranjan's github stats](https://github-readme-stats.vercel.app/api?username=fabiotranjan&theme=dark&show_icons=true&count_private=true)](https://github.com/fabiotranjan)
