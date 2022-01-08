@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fabio Tranjan, and I'm from Brazil (:brazil:). I've been working as Full-Stack Developer since 2016. My current technology stack is Ruby on Rails for Back-End and React for Front-End, but I've worked already with Python, C++, Node, Java and Elixir.
+My name is Fabio Tranjan, and I'm from Brazil (:brazil:). I've been working as Full-Stack Developer since 2017. My current technology stack is Ruby on Rails for Back-End and React for Front-End, but I've worked already with Python, C++, Node, Java and Elixir.
 
 :eyes: I'm looking forward to contributing to open-source projects.
 
