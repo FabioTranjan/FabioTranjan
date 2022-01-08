@@ -7,7 +7,7 @@ My name is Fabio Tranjan, and I'm from Brazil (:brazil:). I've been working as F
 :telescope: Some pet projects:
 
 :computer: [Hack Computer](https://github.com/FabioTranjan/hack-computer)\
-🔗: [Distributed Systems Labs](https://github.com/FabioTranjan/distributed-system-labs)
+🔗 [Distributed Systems Labs](https://github.com/FabioTranjan/distributed-system-labs)\
 :bird: [Twitter Clone](https://github.com/FabioTranjan/twitter-clone)\
 :notebook: [To Do List](https://github.com/FabioTranjan/todo-list)
 
